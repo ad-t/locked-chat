@@ -1,0 +1,17 @@
+{
+  "name": "meme_chat",
+  "version": "0.0.1",
+  "description": "A Webchat Server",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ad-t",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
